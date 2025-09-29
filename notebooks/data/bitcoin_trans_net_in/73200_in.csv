@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Chartalist</title>
+    <meta name="description" content="ML-Ready Blockchain Graph Datasets - A comprehensive, open-science catalogue of machine learning-ready blockchain graph datasets" />
+    <meta name="author" content="Chartalist Team" />
+
+    <meta property="og:title" content="Chartalist" />
+    <meta property="og:description" content="ML-Ready Blockchain Graph Datasets - A comprehensive, open-science catalogue of machine learning-ready blockchain graph datasets" />
+    <meta property="og:type" content="website" />
+
+    <meta name="twitter:card" content="summary_large_image" />
+    <!-- No favicon link present, so nothing to remove here. -->
+    <script src="https://www.google.com/recaptcha/api.js" async defer></script>
+    <script type="module" crossorigin src="/assets/index-DQYAmBtB.js"></script>
+    <link rel="stylesheet" crossorigin href="/assets/index-DYaH9Mw2.css">
+  </head>
+
+  <body>
+    <div id="root"></div>
+  </body>
+</html>

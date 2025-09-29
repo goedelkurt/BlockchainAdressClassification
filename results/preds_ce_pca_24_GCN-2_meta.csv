@@ -1,0 +1,2 @@
+loss,feature_variant,model,lr,dropout,weight_decay,best_val_pr_auc,best_epoch,in_ch
+ce,pca_24,GCN-2,0.0075,0.3,0.0,0.4057557458909461,100,24

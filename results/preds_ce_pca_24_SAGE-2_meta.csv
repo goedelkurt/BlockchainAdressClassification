@@ -1,0 +1,2 @@
+loss,feature_variant,model,lr,dropout,weight_decay,best_val_pr_auc,best_epoch,in_ch
+ce,pca_24,SAGE-2,0.0045,0.2,0.0005,0.5023058152837614,88,24

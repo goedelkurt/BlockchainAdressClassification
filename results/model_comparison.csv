@@ -1,0 +1,5 @@
+,GCN,GraphSAGE
+Best_Params,"{'dropout': 0.3, 'hidden_channels': 64, 'lr': 0.003}","{'dropout': 0.3, 'hidden_channels': 64, 'lr': 0.003}"
+Test_Acc,0.7552656882132037,0.8369768327860525
+Test_F1,0.5752742074689556,0.6554948503002221
+Test_PR_AUC,0.15519714931895262,0.38424322411989575
